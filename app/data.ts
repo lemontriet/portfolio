@@ -66,6 +66,14 @@ export const SOCIAL_LINKS: SocialLink[] = [
   {
     label: 'LinkedIn',
     link: 'https://www.linkedin.com/in/letriet',
+  },
+  {
+    label: 'Spotify',
+    link: 'https://open.spotify.com/user/1298364717?si=2e30ae56f5224b17'
+  },
+  {
+    label: 'X',
+    link: 'https://x.com/trmilee'
   }
 ]
 
