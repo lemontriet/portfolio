@@ -52,7 +52,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
 export const BLOG_POSTS: BlogPost[] = [
   {
     title: 'My Resume',
-    description: 'The current version of my resume, showcasing my skills and experience.',
+    description: 'The current version of my resume, showcasing my skills and experience',
     link: '/blog/resume',
     uid: 'blog-1',
   }
@@ -70,10 +70,6 @@ export const SOCIAL_LINKS: SocialLink[] = [
   {
     label: 'Spotify',
     link: 'https://open.spotify.com/user/1298364717?si=2e30ae56f5224b17'
-  },
-  {
-    label: 'X',
-    link: 'https://x.com/trmilee'
   }
 ]
 

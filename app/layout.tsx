@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   },
   title: {
     default: 'Triet Portfolio',
-    template: '%s | Triet'
+    template: '%s'
   }
 };
 

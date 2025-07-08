@@ -41,7 +41,7 @@ export function Header() {
             className="text-zinc-600 dark:text-zinc-500 text-base"
             delay={0.8}
           >
-            Looking for a meaningful way to combine passion and development
+            Looking for opportunities to explore and grow
           </TextEffect>
         </div>
       </div>
