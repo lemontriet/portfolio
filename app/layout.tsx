@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     canonical: '/'
   },
   title: {
-    default: 'Triet - Personal website template',
+    default: 'Triet Portfolio',
     template: '%s | Triet'
   },
   description:  'Portfolio of Triet Minh Le, created using Julien Thibeaut template on Vercel.',
