@@ -19,8 +19,7 @@ export const metadata: Metadata = {
   title: {
     default: 'Triet Portfolio',
     template: '%s | Triet'
-  },
-  description:  'Portfolio of Triet Minh Le, created using Julien Thibeaut template on Vercel.',
+  }
 };
 
 const geist = Geist({
