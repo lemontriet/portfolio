@@ -19,7 +19,8 @@ export const metadata: Metadata = {
   title: {
     default: 'Triet Portfolio',
     template: '%s'
-  }
+  },
+  description: 'Hello, Nice to meet you!'
 };
 
 const geist = Geist({
