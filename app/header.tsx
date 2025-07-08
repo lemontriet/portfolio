@@ -11,7 +11,10 @@ export function Header() {
           <div className="absolute left-0 top-0 -z-10 flex h-24 w-24 items-center justify-center rounded-full border border-dashed border-zinc-300 bg-zinc-100 dark:border-zinc-600 dark:bg-zinc-800"></div>
           <Link href="/" className="z-10 cursor-pointer">
             <Image
-              src={process.env.NEXT_PUBLIC_PROFILE_PHOTO_URL || "/IMG_2052.jpg"}
+              src={
+                process.env.NEXT_PUBLIC_PROFILE_PHOTO_URL ||
+                (process.env.NODE_ENV === "development" ? "/IMG_2052.jpg" : "")
+              }
               alt="Triet Minh Le"
               width={1600}
               height={800}
