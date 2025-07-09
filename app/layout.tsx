@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     default: 'Triet Portfolio',
     template: '%s'
   },
-  description: 'Hello, Nice to meet you!'
+  description: 'aspiring software engineer, down for any challenge'
 };
 
 const geist = Geist({

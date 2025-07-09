@@ -29,7 +29,7 @@ export function Header() {
             as="p"
             preset="fade"
             per="char"
-            className="text-zinc-600 dark:text-zinc-500 text-lg"
+            className="text-zinc-600 dark:text-zinc-500 text-base"
             delay={0.5}
           >
             Aspiring Software Engineer
@@ -38,10 +38,10 @@ export function Header() {
             as="p"
             preset="fade"
             per="char"
-            className="text-zinc-600 dark:text-zinc-500 text-base"
+            className="text-zinc-600 dark:text-zinc-500 text-sm"
             delay={0.8}
           >
-            Looking for opportunities to explore and grow
+            Currently in Melbourne, Australia
           </TextEffect>
         </div>
       </div>

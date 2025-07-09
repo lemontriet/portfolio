@@ -73,7 +73,7 @@ export function Footer() {
         <a href="https://github.com/lemontriet" target="_blank">
           <TextLoop className="text-xs text-zinc-500">
             <span>© 2025 Triet</span>
-            <span>Inspired by 'nim' by Julien.</span>
+            <span>Powered by 'nim' by Julien.</span>
           </TextLoop>
         </a>
         <div className="text-xs text-zinc-400">
