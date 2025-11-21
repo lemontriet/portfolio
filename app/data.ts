@@ -42,10 +42,18 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
   {
     company: 'Deloitte',
     title: 'Data and AI Analyst',
-    start: '2025',
-    end: 'Present',
+    start: 'Mar 2025',
+    end: 'Jul 2025',
     link: '',
     id: 'work1',
+  },
+  {
+    company: 'Stealth Startup',
+    title: 'Software Engineer',
+    start: 'Aug 2025',
+    end: 'Present',
+    link: '',
+    id: 'work2',
   }
 ]
 

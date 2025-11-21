@@ -80,17 +80,15 @@ export default function Personal() {
         <h3 className="mb-5 text-lg font-medium">About Me</h3>
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            2025 Graduate from Monash University with a Bachelor's in Computer Science
+            Bachelor's in Computer Science @ Monash University
           </p>
           <br></br>
           <p className="text-zinc-600 dark:text-zinc-400">
-            I have a passion for software engineering with a strong focus on being able to deliver full-stack applications. I thrive in fast-paced environments 
-            that challenges my problem-solving skills where innovation and creativity are encouraged
+            Passionate about technology, finance, science. Currently building an iOS application with Stealth Startup
           </p>
           <br></br>
           <p className="text-zinc-600 dark:text-zinc-400">
-            Outside of professional work, I enjoy various hobbies such as playing video games, listening to music (feel free to send me your favourite songs!), 
-            and travelling. I am also a big foodie, and always on the lookout for new restaurants to try in Melbourne or anywhere I travel to
+            Outside of work, I enjoy playing video games, losing money on the futures market, eating great food and learning new things from brainrotting
           </p>
         </div>
       </motion.section>
