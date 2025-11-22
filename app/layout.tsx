@@ -7,8 +7,7 @@ import { ThemeProvider } from 'next-themes'
 
 export const viewport: Viewport = {
   width: 'device-width',
-  initialScale: 1,
-  themeColor: '#ffffff',
+  initialScale: 1
 }
 
 export const metadata: Metadata = {
@@ -20,7 +19,10 @@ export const metadata: Metadata = {
     default: 'Triet Portfolio',
     template: '%s'
   },
-  description: 'aspiring software engineer, down for any challenge'
+  description: 'aspiring software engineer, down for any challenge',
+  other: {
+    'apple-mobile-web-app-status-bar-style': 'black-translucent',
+  }
 };
 
 const geist = Geist({
